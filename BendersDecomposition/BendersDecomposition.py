@@ -5,6 +5,8 @@ Created on Wed Feb  3 16:08:35 2021
 @author: LI Zhengyang
 '''
 '''
+Case URL: https://www.youtube.com/watch?v=vQzpydNOWDY
+
 Mike has 1000$ to make a finance plan. There are two options:
 1. Saving account
     The interest rate 4.5%.
