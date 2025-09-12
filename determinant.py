@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection, Line3DCollection
+plt.rcParams['font.sans-serif'] = ['STHeiti']  # 显示中文标签
 
 # 定义矩阵
 A = np.array([[1, 0, 0], 

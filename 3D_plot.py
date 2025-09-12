@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
+plt.rcParams['font.sans-serif'] = ['STHeiti']  # 显示中文标签
+plt.rcParams['axes.unicode_minus'] = False         # 正常显示负号
 
 # 定义矩阵和列向量
 A = np.array([[1, 0, 0], [0, 5, 2], [3, 1, 9]])
